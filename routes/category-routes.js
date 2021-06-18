@@ -6,7 +6,7 @@ const { Category, Product } = require('../models')
 // find all categories
 // be sure to include its associated Products
 router.get('/categories', (req, res) => Category.findAll()
-  .then(categories => res.json(category))
+  .then(categories => res.json(categories))
   .catch(err => console.log(err)))
 
 // find one category by its `id` value
