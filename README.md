@@ -1,10 +1,8 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+# E-Commerce Back End
 
 <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript" /></a>
 <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Node-orange?style=for-the-badge" alt="Node" /></a>
 <img src="https://img.shields.io/github/package-json/dependency-version/diaseu/fitnessTracker/express?style=for-the-badge" alt="Express Version" />
-
-<img src="https://i.imgur.com/KDFvhfY.png" alt="Screenshot of application" />
 
 This application is a backend for an e-commerce site utilizing Express.js API to use Sequelize to interact with a MySQL database.
 
